@@ -1,3 +1,3 @@
 # Demo
 
-This demo prohject!
+This demo project!
